@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentSystem", "PaymentSys
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartDevices", "SmartDevices\SmartDevices.csproj", "{9618F498-BAAF-46D6-B8D2-7CA4E5A0EFDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassWork2", "ClassWork2\ClassWork2.csproj", "{522AC066-08ED-4406-A311-EB6042A4C3FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{9618F498-BAAF-46D6-B8D2-7CA4E5A0EFDB}.Release|x64.Build.0 = Release|Any CPU
 		{9618F498-BAAF-46D6-B8D2-7CA4E5A0EFDB}.Release|x86.ActiveCfg = Release|Any CPU
 		{9618F498-BAAF-46D6-B8D2-7CA4E5A0EFDB}.Release|x86.Build.0 = Release|Any CPU
+		{522AC066-08ED-4406-A311-EB6042A4C3FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522AC066-08ED-4406-A311-EB6042A4C3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522AC066-08ED-4406-A311-EB6042A4C3FC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{522AC066-08ED-4406-A311-EB6042A4C3FC}.Debug|x64.Build.0 = Debug|Any CPU
+		{522AC066-08ED-4406-A311-EB6042A4C3FC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{522AC066-08ED-4406-A311-EB6042A4C3FC}.Debug|x86.Build.0 = Debug|Any CPU
+		{522AC066-08ED-4406-A311-EB6042A4C3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522AC066-08ED-4406-A311-EB6042A4C3FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{522AC066-08ED-4406-A311-EB6042A4C3FC}.Release|x64.ActiveCfg = Release|Any CPU
+		{522AC066-08ED-4406-A311-EB6042A4C3FC}.Release|x64.Build.0 = Release|Any CPU
+		{522AC066-08ED-4406-A311-EB6042A4C3FC}.Release|x86.ActiveCfg = Release|Any CPU
+		{522AC066-08ED-4406-A311-EB6042A4C3FC}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

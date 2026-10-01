@@ -1,0 +1,15 @@
+C:\Users\davisjad\GitHub\Csharp-DotNet\ClassWork2\bin\Debug\net10.0\ClassWork2.exe
+C:\Users\davisjad\GitHub\Csharp-DotNet\ClassWork2\bin\Debug\net10.0\ClassWork2.deps.json
+C:\Users\davisjad\GitHub\Csharp-DotNet\ClassWork2\bin\Debug\net10.0\ClassWork2.runtimeconfig.json
+C:\Users\davisjad\GitHub\Csharp-DotNet\ClassWork2\bin\Debug\net10.0\ClassWork2.dll
+C:\Users\davisjad\GitHub\Csharp-DotNet\ClassWork2\bin\Debug\net10.0\ClassWork2.pdb
+C:\Users\davisjad\GitHub\Csharp-DotNet\ClassWork2\obj\Debug\net10.0\ClassWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davisjad\GitHub\Csharp-DotNet\ClassWork2\obj\Debug\net10.0\ClassWork2.AssemblyInfoInputs.cache
+C:\Users\davisjad\GitHub\Csharp-DotNet\ClassWork2\obj\Debug\net10.0\ClassWork2.AssemblyInfo.cs
+C:\Users\davisjad\GitHub\Csharp-DotNet\ClassWork2\obj\Debug\net10.0\ClassWork2.csproj.CoreCompileInputs.cache
+C:\Users\davisjad\GitHub\Csharp-DotNet\ClassWork2\obj\Debug\net10.0\ClassWork2.sourcelink.json
+C:\Users\davisjad\GitHub\Csharp-DotNet\ClassWork2\obj\Debug\net10.0\ClassWork2.dll
+C:\Users\davisjad\GitHub\Csharp-DotNet\ClassWork2\obj\Debug\net10.0\refint\ClassWork2.dll
+C:\Users\davisjad\GitHub\Csharp-DotNet\ClassWork2\obj\Debug\net10.0\ClassWork2.pdb
+C:\Users\davisjad\GitHub\Csharp-DotNet\ClassWork2\obj\Debug\net10.0\ClassWork2.genruntimeconfig.cache
+C:\Users\davisjad\GitHub\Csharp-DotNet\ClassWork2\obj\Debug\net10.0\ref\ClassWork2.dll
