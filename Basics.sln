@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartDevices", "SmartDevice
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassWork2", "ClassWork2\ClassWork2.csproj", "{522AC066-08ED-4406-A311-EB6042A4C3FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentInfoSystem", "StudentInfoSystem\StudentInfoSystem.csproj", "{155CF4C1-2CC0-4FA4-BCA2-C95F0DD1EF73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,18 @@ Global
 		{522AC066-08ED-4406-A311-EB6042A4C3FC}.Release|x64.Build.0 = Release|Any CPU
 		{522AC066-08ED-4406-A311-EB6042A4C3FC}.Release|x86.ActiveCfg = Release|Any CPU
 		{522AC066-08ED-4406-A311-EB6042A4C3FC}.Release|x86.Build.0 = Release|Any CPU
+		{155CF4C1-2CC0-4FA4-BCA2-C95F0DD1EF73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155CF4C1-2CC0-4FA4-BCA2-C95F0DD1EF73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155CF4C1-2CC0-4FA4-BCA2-C95F0DD1EF73}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{155CF4C1-2CC0-4FA4-BCA2-C95F0DD1EF73}.Debug|x64.Build.0 = Debug|Any CPU
+		{155CF4C1-2CC0-4FA4-BCA2-C95F0DD1EF73}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{155CF4C1-2CC0-4FA4-BCA2-C95F0DD1EF73}.Debug|x86.Build.0 = Debug|Any CPU
+		{155CF4C1-2CC0-4FA4-BCA2-C95F0DD1EF73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155CF4C1-2CC0-4FA4-BCA2-C95F0DD1EF73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{155CF4C1-2CC0-4FA4-BCA2-C95F0DD1EF73}.Release|x64.ActiveCfg = Release|Any CPU
+		{155CF4C1-2CC0-4FA4-BCA2-C95F0DD1EF73}.Release|x64.Build.0 = Release|Any CPU
+		{155CF4C1-2CC0-4FA4-BCA2-C95F0DD1EF73}.Release|x86.ActiveCfg = Release|Any CPU
+		{155CF4C1-2CC0-4FA4-BCA2-C95F0DD1EF73}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\davisjad\GitHub\Csharp-DotNet\StudentInfoSystem\bin\Debug\net10.0\StudentInfoSystem.exe
+C:\Users\davisjad\GitHub\Csharp-DotNet\StudentInfoSystem\bin\Debug\net10.0\StudentInfoSystem.deps.json
+C:\Users\davisjad\GitHub\Csharp-DotNet\StudentInfoSystem\bin\Debug\net10.0\StudentInfoSystem.runtimeconfig.json
+C:\Users\davisjad\GitHub\Csharp-DotNet\StudentInfoSystem\bin\Debug\net10.0\StudentInfoSystem.dll
+C:\Users\davisjad\GitHub\Csharp-DotNet\StudentInfoSystem\bin\Debug\net10.0\StudentInfoSystem.pdb
+C:\Users\davisjad\GitHub\Csharp-DotNet\StudentInfoSystem\obj\Debug\net10.0\StudentInfoSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davisjad\GitHub\Csharp-DotNet\StudentInfoSystem\obj\Debug\net10.0\StudentInfoSystem.AssemblyInfoInputs.cache
+C:\Users\davisjad\GitHub\Csharp-DotNet\StudentInfoSystem\obj\Debug\net10.0\StudentInfoSystem.AssemblyInfo.cs
+C:\Users\davisjad\GitHub\Csharp-DotNet\StudentInfoSystem\obj\Debug\net10.0\StudentInfoSystem.csproj.CoreCompileInputs.cache
+C:\Users\davisjad\GitHub\Csharp-DotNet\StudentInfoSystem\obj\Debug\net10.0\StudentInfoSystem.sourcelink.json
+C:\Users\davisjad\GitHub\Csharp-DotNet\StudentInfoSystem\obj\Debug\net10.0\StudentInfoSystem.dll
+C:\Users\davisjad\GitHub\Csharp-DotNet\StudentInfoSystem\obj\Debug\net10.0\refint\StudentInfoSystem.dll
+C:\Users\davisjad\GitHub\Csharp-DotNet\StudentInfoSystem\obj\Debug\net10.0\StudentInfoSystem.pdb
+C:\Users\davisjad\GitHub\Csharp-DotNet\StudentInfoSystem\obj\Debug\net10.0\StudentInfoSystem.genruntimeconfig.cache
+C:\Users\davisjad\GitHub\Csharp-DotNet\StudentInfoSystem\obj\Debug\net10.0\ref\StudentInfoSystem.dll
