@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Ivtcph/JkPg=",
   "success": true,
   "projectFilePath": "C:\\Users\\davisjad\\GitHub\\Csharp-DotNet\\PaymentSystem\\PaymentSystem.csproj",
+=======
+  "dgSpecHash": "8kes+0rXn7E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\davis\\Documents\\GitHub\\Csharp-DotNet\\PaymentSystem\\PaymentSystem.csproj",
+>>>>>>> 83ffcd425b7970da93cbbd999747df5704236da1
   "expectedPackageFiles": [],
   "logs": []
 }

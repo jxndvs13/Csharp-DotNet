@@ -35,7 +35,7 @@ namespace DIWork
                     return student;
                 }
             }
-            throw new ArgumentException("Student not found");
+            return null;
         }
     }
 }
