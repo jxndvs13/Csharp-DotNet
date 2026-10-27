@@ -1,14 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "Ivtcph/JkPg=",
   "success": true,
   "projectFilePath": "C:\\Users\\davisjad\\GitHub\\Csharp-DotNet\\PaymentSystem\\PaymentSystem.csproj",
-=======
-  "dgSpecHash": "8kes+0rXn7E=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\davis\\Documents\\GitHub\\Csharp-DotNet\\PaymentSystem\\PaymentSystem.csproj",
->>>>>>> 83ffcd425b7970da93cbbd999747df5704236da1
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\davisjad\\GitHub\\Csharp-DotNet\\PaymentSystem\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\davisjad\\GitHub\\Csharp-DotNet\\PaymentSystem\\PaymentSystem.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\davisjad\\GitHub\\Csharp-DotNet\\PaymentSystem\\PaymentSystem.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DIWork")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d1dc132f963d0bbca22fe11aae16857d94bf181")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c6e58a132e9e30420b7a1c76b5825080c9d9e2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DIWork")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DIWork")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
