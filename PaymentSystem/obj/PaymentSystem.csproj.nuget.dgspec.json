@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\davisjad\\GitHub\\Csharp-DotNet\\PaymentSystem\\PaymentSystem.csproj": {}
+    "C:\\Users\\davisjad\\GitHub\\Csharp-DotNet\\PaymentSystem\\PaymentSystem.csproj": {}
   },
   "projects": {
-    "c:\\Users\\davisjad\\GitHub\\Csharp-DotNet\\PaymentSystem\\PaymentSystem.csproj": {
+    "C:\\Users\\davisjad\\GitHub\\Csharp-DotNet\\PaymentSystem\\PaymentSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\davisjad\\GitHub\\Csharp-DotNet\\PaymentSystem\\PaymentSystem.csproj",
+        "projectUniqueName": "C:\\Users\\davisjad\\GitHub\\Csharp-DotNet\\PaymentSystem\\PaymentSystem.csproj",
         "projectName": "PaymentSystem",
-        "projectPath": "c:\\Users\\davisjad\\GitHub\\Csharp-DotNet\\PaymentSystem\\PaymentSystem.csproj",
+        "projectPath": "C:\\Users\\davisjad\\GitHub\\Csharp-DotNet\\PaymentSystem\\PaymentSystem.csproj",
         "packagesPath": "C:\\Users\\davisjad\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\davisjad\\GitHub\\Csharp-DotNet\\PaymentSystem\\obj\\",
+        "outputPath": "C:\\Users\\davisjad\\GitHub\\Csharp-DotNet\\PaymentSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

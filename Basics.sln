@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentInfoSystem", "Studen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIWork", "DIWork\DIWork.csproj", "{48D950EE-2575-4B03-AD77-B5D0885F5B84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassWork3", "ClassWork3\ClassWork3.csproj", "{899D68FA-C9CD-4D0F-AD79-66D50E56B3C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +99,18 @@ Global
 		{48D950EE-2575-4B03-AD77-B5D0885F5B84}.Release|x64.Build.0 = Release|Any CPU
 		{48D950EE-2575-4B03-AD77-B5D0885F5B84}.Release|x86.ActiveCfg = Release|Any CPU
 		{48D950EE-2575-4B03-AD77-B5D0885F5B84}.Release|x86.Build.0 = Release|Any CPU
+		{899D68FA-C9CD-4D0F-AD79-66D50E56B3C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899D68FA-C9CD-4D0F-AD79-66D50E56B3C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899D68FA-C9CD-4D0F-AD79-66D50E56B3C7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{899D68FA-C9CD-4D0F-AD79-66D50E56B3C7}.Debug|x64.Build.0 = Debug|Any CPU
+		{899D68FA-C9CD-4D0F-AD79-66D50E56B3C7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{899D68FA-C9CD-4D0F-AD79-66D50E56B3C7}.Debug|x86.Build.0 = Debug|Any CPU
+		{899D68FA-C9CD-4D0F-AD79-66D50E56B3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899D68FA-C9CD-4D0F-AD79-66D50E56B3C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899D68FA-C9CD-4D0F-AD79-66D50E56B3C7}.Release|x64.ActiveCfg = Release|Any CPU
+		{899D68FA-C9CD-4D0F-AD79-66D50E56B3C7}.Release|x64.Build.0 = Release|Any CPU
+		{899D68FA-C9CD-4D0F-AD79-66D50E56B3C7}.Release|x86.ActiveCfg = Release|Any CPU
+		{899D68FA-C9CD-4D0F-AD79-66D50E56B3C7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
