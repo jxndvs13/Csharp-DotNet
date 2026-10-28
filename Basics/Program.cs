@@ -6,7 +6,7 @@ namespace Basics
     {
         static void Main (String[] args)
         {
-            GradeTracker.Test();
+            ListTest.Test();
         }
     }
 }
